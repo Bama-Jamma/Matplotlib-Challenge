@@ -4,7 +4,7 @@
 
 In this project, we analyzed data from a study conducted by Pymaceuticals Inc. to evaluate the performance of various drug treatments on tumor growth in mice. The data was provided in CSV format and contained information on the mouse ID, the drug regimen used, the timepoints for each measurement, and the tumor volume observed.
 
-Our analysis consisted of cleaning and organizing the data, generating summary statistics, and creating various plots to visualize the results. We used Python and its libraries, including Pandas, Matplotlib, and NumPy, to perform the analysis.
+Our analysis consisted of cleaning and organizing the data, generating summary statistics, and creating various plots to visualize the results. We used Python and its libraries, including Pandas, Matplotlib, and SciPy, to perform the analysis.
 
 ### Dependencies
 To run the code for this project, you will need to have the following dependencies installed:
